@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Epam.Activities.Exchange</id>
+    <version>1.2.8.1</version>
+    <title>Epam.Activities.Exchange</title>
+    <authors>EPAM</authors>
+    <owners>EPAM</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Activities for working with exchange server.</description>
+  </metadata>
+</package>
